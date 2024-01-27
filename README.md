@@ -1,1 +1,2 @@
-# GitHub_Project_2_Team-C
+Dataset: Happiness Score
+Members : Nterou Eirini , Tounta Nikoletta
